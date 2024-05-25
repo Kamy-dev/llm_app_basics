@@ -4,6 +4,7 @@
 </p>
 
 <br>
+
 ----
 
 LLMを用いたアプリケーション開発において利用されるLangChainライブラリ、UIはStreamlitライブラリを利用した、"基本のキ"を学べるRetrieval-Augmented Generation(RAG)を活用したLLMアプリケーション。
