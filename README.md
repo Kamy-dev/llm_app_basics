@@ -1,6 +1,6 @@
 # llm_app_basics
 <p align="center">
-![llm_app_basics](https://github.com/Kamy-dev/llm_app_basics/assets/130248710/60a6d148-4db5-4bbe-b851-8fd00fb7accc)
+  <img src="https://github.com/Kamy-dev/llm_app_basics/assets/130248710/60a6d148-4db5-4bbe-b851-8fd00fb7accc" />
 </p>
 
 <br>
