@@ -1,18 +1,19 @@
 # llm_app_basics
+<p align="center">
+![llm_app_basics](https://github.com/Kamy-dev/llm_app_basics/assets/130248710/60a6d148-4db5-4bbe-b851-8fd00fb7accc)
+</p>
 
-![llm_app_basics](https://github.com/Kamy-dev/llm_app_basics/assets/130248710/60a6d148-4db5-4bbe-b851-8fd00fb7accc)    
-  
-  
+<br>
 ----
 
-LLMを用いたアプリケーション開発において利用されるLangChainライブラリ、UIはStreamlitライブラリを利用した、"基本のキ"を学べるRAGを活用したLLMアプリケーション。
+LLMを用いたアプリケーション開発において利用されるLangChainライブラリ、UIはStreamlitライブラリを利用した、"基本のキ"を学べるRetrieval-Augmented Generation(RAG)を活用したLLMアプリケーション。
 
 ----    
-  
-  
+<br>
+
 ## 1. 機能
 
-- Retrieval-Augmented Generation(RAG)を用い、LLMが学習していない最新情報や社内文書等のPDFファイルをアップロードし、そのデータを組み合わせてLLMに回答させる。
+- RAGを用い、LLMが学習していない最新情報や社内文書等のPDFファイルをアップロードし、そのデータを組み合わせてLLMに回答させる。
 - Notion APIを利用し、LLMとの会話履歴をNotionに保管できる。
 - LLMの回答の根拠となったドキュメントの該当部分をコンソールで確認できる。
 
