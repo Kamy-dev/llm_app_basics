@@ -1,13 +1,13 @@
 # llm_app_basics
 
-![llm_app_basics](https://github.com/Kamy-dev/llm_app_basics/assets/130248710/60a6d148-4db5-4bbe-b851-8fd00fb7accc)
+![llm_app_basics](https://github.com/Kamy-dev/llm_app_basics/assets/130248710/60a6d148-4db5-4bbe-b851-8fd00fb7accc)    
   
   
 ----
 
 LLMを用いたアプリケーション開発において利用されるLangChainライブラリ、UIはStreamlitライブラリを利用した、"基本のキ"を学べるRAGを活用したLLMアプリケーション。
 
-----
+----    
   
   
 ## 1. 機能
