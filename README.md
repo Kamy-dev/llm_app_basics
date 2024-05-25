@@ -1,6 +1,6 @@
 # llm_app_basics
 
-https://github.com/Kamy-dev/llm_app_basics/assets/130248710/e264495d-4d0a-4783-8e41-ab4c511bcafb
+![llm_app_basics](https://github.com/Kamy-dev/llm_app_basics/assets/130248710/60a6d148-4db5-4bbe-b851-8fd00fb7accc)
 
 ----
 
@@ -23,3 +23,4 @@ LLMを用いたアプリケーション開発において利用されるLangChai
 ## 3. 構成図
 
 利用者とアプリ内部の挙動について図示する。
+
