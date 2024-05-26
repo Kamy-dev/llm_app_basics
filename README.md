@@ -7,7 +7,9 @@
 
 ----
 
-LLMを用いたアプリケーション開発において利用されるLangChainライブラリ、UIはStreamlitライブラリを利用した、Retrieval-Augmented Generation(RAG)を活用したLLMアプリケーション。  
+LLMを用いたアプリケーション開発において利用されるLangChainライブラリ、UIはStreamlitライブラリを利用した、  
+Retrieval-Augmented Generation(RAG)を活用したLLMアプリケーション。  
+  
 会話履歴はボタン一つでNotionに保存可能。
 
 ----    
