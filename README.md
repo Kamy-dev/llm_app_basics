@@ -35,7 +35,8 @@ LLMを用いたアプリケーション開発において利用されるLangChai
 利用者とアプリ内部の挙動について図示する。
 <br>
 
-{: align="center"}
-![llm_app_basics_img](https://github.com/Kamy-dev/llm_app_basics/assets/130248710/e73ef201-ad7b-4512-8597-93f56c2487c0)
+<div align="center">
+    <img src="https://github.com/Kamy-dev/llm_app_basics/assets/130248710/e73ef201-ad7b-4512-8597-93f56c2487c0" alt="構成図">
+</div>
 
 <br>
