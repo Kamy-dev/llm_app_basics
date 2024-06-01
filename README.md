@@ -38,7 +38,7 @@ LLMを用いたアプリケーション開発において利用されるLangChai
 <br>
 
 <div align="center">
-    <img src="https://github.com/Kamy-dev/llm_app_basics/assets/130248710/e73ef201-ad7b-4512-8597-93f56c2487c0" alt="構成図">
+    <img src="https://github.com/Kamy-dev/llm_app_basics/assets/130248710/03d4e10d-1271-4e6b-b4ba-516f463c8d3b" alt="構成図">
 </div>
 
 <br>
