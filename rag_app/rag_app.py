@@ -111,7 +111,7 @@ def select_gpt_model():
     with st.sidebar:
         selection = st.radio(
             "Select GPT model:",
-            ("GPT-3.5", "gpt-4")
+            ("gpt-3.5", "gpt-4")
         )
     if selection == "GPT-3.5":
         st.session_state.model_name = "gpt-3.5-turbo"
