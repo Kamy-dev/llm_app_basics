@@ -220,7 +220,7 @@ def notion_add(contents, title):
     created_iso_format = today.isoformat()
     NOTION_API_TOKEN = os.getenv('NOTION_API_TOKEN')
     # ページを作成するNotionデータベースを指定する
-    data_base_id = '84b10ff627df419d9c5083b914d90eb9'
+    data_base_id = 'Your Notion Database ID'
     content = "\n".join(contents)
 
     url = 'https://api.notion.com/v1/pages'
