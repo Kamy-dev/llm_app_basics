@@ -192,7 +192,6 @@ def qa_model(llm):
         search_kwargs = {"k":4}
     )
 
-    # 
     return RetrievalQA.from_chain_type(
         llm = llm,
         chain_type = "stuff",
@@ -274,8 +273,6 @@ def notion_add(contents, title):
 
     response = requests.post(url, json=payload, headers=headers)
     response.json()
-    #result_dict = response.json()
-    #print(result_dict)
 
 def main():
     page_init_settings()
